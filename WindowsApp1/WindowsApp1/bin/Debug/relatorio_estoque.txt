@@ -1,0 +1,10 @@
+Relatório de Estoque
+
+Produtos com Estoque Baixo:
+- Iphone 15 Pro Max (SKU: IPHO_15): 3 unidades
+
+Produtos com Excesso de Estoque:
+- Headset Marca2 (SKU: HEAD_2): 30 unidades
+
+Movimentação de Produtos (Estoque Adequado):
+- Microondas (SKU: MICRO_20K): 5 unidades

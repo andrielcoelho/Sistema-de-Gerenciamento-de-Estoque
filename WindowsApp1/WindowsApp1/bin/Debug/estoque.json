@@ -1,0 +1,32 @@
+[
+  {
+    "Product_Name": "Iphone 15 Pro Max",
+    "SKU": "IPHO_15",
+    "Localization": "SALA 10",
+    "Price": 1000.0,
+    "Quantity": 3,
+    "Category_options": [
+      "CELULARES"
+    ]
+  },
+  {
+    "Product_Name": "Microondas",
+    "SKU": "MICRO_20K",
+    "Localization": "SALA 5",
+    "Price": 500.0,
+    "Quantity": 5,
+    "Category_options": [
+      "ELETRODOMÉSTICOS"
+    ]
+  },
+  {
+    "Product_Name": "Headset Marca2",
+    "SKU": "HEAD_2",
+    "Localization": "Sala 3",
+    "Price": 300.0,
+    "Quantity": 30,
+    "Category_options": [
+      "PERIFÉRICOS"
+    ]
+  }
+]
